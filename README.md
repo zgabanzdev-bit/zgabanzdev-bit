@@ -1,16 +1,231 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zgabanzdev-bit/zgabanzdev-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://media.giphy.com/media/kKuQM8wVfebapXgEYF/giphy.gif" width="100" />
+</p>
 
-Here are some ideas to get you started:
+### `<Frontend Developer />` | React & Next.js Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@FrOggGsS__AsS-00D9FF?style=flat-square&logo=telegram&logoColor=F1F7&labelColor=0D1117&color=095544)](https://t.me/FrOggGsS_AsS)
+[![Gmail](https://img.shields.io/badge/Gmail-zgabanz.dev@gmail.com-00FF41?style=flat-square&logo=gmail&logoColor=8F0816&labelColor=0D1117&color=095544)](mailto:zgabanz.dev@gmail.com)
+[![Years](https://img.shields.io/badge/Experience-3+_Years-FF00FF?style=flat-square&labelColor=0D1117&color=095544)](#)
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ > system.status                                             │
+│ > Loading profile...                                        │
+│ > Kseniya Shapovalova // zgabanzdev-bit                     │
+│ > Status: [ACTIVE] | Mode: [DEVELOPMENT] | Focus: [SHIP IT] │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `<AboutMe />`
+
+```typescript
+const zgabanzdev = {
+    role: "Frontend Developer",
+    experience: "3+ years of commercial development",
+    focus: ["High-load web apps", "AI platforms", "Browser extensions"],
+    
+    achievements: {
+        performance: "⚡ Reduced page load time by 40%",
+        architecture: "🏗️ Built frontend architecture from scratch for 5+ projects",
+        leadership: "👥 Led frontend team in international distributed team",
+        code_coverage: "📦 Implemented ~80% of frontend functionality across projects"
+    },
+    
+    passions: [
+        "Building scalable solutions",
+        "Optimizing UX & performance",
+        "Implementing best practices",
+        "Working with cutting-edge tech"
+    ],
+    
+    currentlyLearning: ["Advanced Next.js patterns", "Performance optimization"],
+    funFact: "I keep a knowledge base in Obsidian for architectural patterns 📝"
+};
+```
+
+**Specialization:** Developing high-load web applications, AI platforms, and browser extensions with focus on UX, performance, and scalability.
+
+---
+
+## `<TechStack />`
+
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=nextjs&logoColor=white" />
+
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="Jotai" src="https://img.shields.io/badge/-Jotai-000000?style=flat-square&logoColor=white" />
+<img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+<img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white" />
+<img alt="Emotion" src="https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logoColor=white" />
+
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-00D9FF?style=flat-square&logoColor=white" />
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-00FF41?style=flat-square&logo=socket.io&logoColor=white" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+<img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+<img alt="ethers.js" src="https://img.shields.io/badge/ethers.js-7C3AED?style=flat-square&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+
+---
+
+## `<WorkExperience />`
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│ 01 > AI_IMAGE_GENERATION_PLATFORM                            │
+└───────────────────────────────────────────────────────────────┘
+```
+
+<img align="right" src="https://media.giphy.com/media/kOydv9PCzQ6gwhh3uA/giphy.gif" width="200">
+
+###  **AI Image Generation Platform**
+`Frontend Developer | Sep 2025 - Present | Russia`
+
+**Web platform for AI-powered image generation with interactive preview and AI chat personas**
+
+```yaml
+Impact:
+  - Performance: Reduced page load time by 40%
+  - UX: Implemented interactive preview reducing failed re-generations
+  - Engagement: Built Telegram-style AI chat increasing user retention
+  - Monetization: Integrated Stripe payments & referral system
+
+Stack: [Next.js, React 19, TypeScript, TailwindCSS, Radix UI, Redux Toolkit]
+```
+
+---
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│ 02 > LLM_WEB3_GAMING_PLATFORM                                │
+└───────────────────────────────────────────────────────────────┘
+```
+
+### **LLM & Web3 Gaming Platform**
+`Frontend Developer | May 2025 - Jul 2025 | USA`
+
+**Web applications & interactive games with LLM and Web3 integration**
+
+```yaml
+Impact:
+  - Architecture: Built SSR/SSG architecture from scratch
+  - AI Acceleration: Reduced time-to-prototype by 60% with LLM tools
+  - Real-time: Implemented WebSocket sync for gameplay
+  - Web3: Integrated WalletConnect & crypto wallet authentication
+
+Stack: [Next.js App Router, TypeScript, WebSocket, ethers.js, Three.js, PlayCanvas]
+```
+
+---
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│ 03 > BROWSER_EXTENSION_WEB_APP                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+### **Browser Extension & Web App**
+`Lead Frontend Developer | Sep 2024 - Apr 2025 | Sweden`
+
+**Browser extension for collecting, structuring and sharing web content with AI integration**
+
+```yaml
+Impact:
+  - Leadership: Led frontend team, established dev standards & Git Flow
+  - Architecture: Built from scratch, covered 80% of frontend functionality
+  - Refactoring: Migrated 40% of legacy code to modern React stack
+  - UI Kit: Developed 60% of reusable component library
+
+Stack: [React, TypeScript, Firebase, Stripe, Chrome Extension API]
+```
+
+---
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│ 04 > VISUAL_CONTENT_SOCIAL_NETWORK                           │
+└───────────────────────────────────────────────────────────────┘
+```
+
+### **Visual Content Social Network**
+`Frontend Developer | Apr 2024 - Aug 2024 | Russia`
+
+**Social network focused on visual content with collections, subscriptions, and folders**
+
+```yaml
+Impact:
+  - SEO: Improved Lighthouse scores by 20-30%
+  - Components: Built reusable UI component library
+  - Responsive: Adaptive grid with dynamic columns
+
+Stack: [React, Redux, Material UI, SCSS, Webpack]
+```
+
+---
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│ 05 > ENTERPRISE_ENERGY_SYSTEM                                │
+└───────────────────────────────────────────────────────────────┘
+```
+
+### **Enterprise Energy Management System**
+`Frontend Developer | Feb 2023 - Mar 2024 | Russia`
+
+**Internal corporate system for energy company processes**
+
+```yaml
+Impact:
+  - Foundation: Developed 70% of UI from scratch
+  - Type Safety: Implemented TypeScript reducing regressions
+  - Maintenance: Refactored 40% of existing codebase
+
+Stack: [Vue.js, Vuex, TypeScript, REST API]
+```
+
+---
+
+
+<div align="center">
+
+
+
+### Let's build something amazing together! 
+[![Telegram](https://img.shields.io/badge/Telegram-095544?style=flat-square&logo=telegram&logoColor=black)](https://t.me/FrOggGsS_AsS)
+[![Gmail](https://img.shields.io/badge/Gmail-095544?style=flat-square&logo=gmail&logoColor=black)](mailto:zgabanz.dev@gmail.com)
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/p34MlXlU4jx7fvWTmT/giphy.gif" width="100" />
+</p>
+
+
+
+<sub>Made with 💚 by zgabanzdev-bit</sub>
+
+</div>
