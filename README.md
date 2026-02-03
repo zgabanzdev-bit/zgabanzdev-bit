@@ -58,6 +58,7 @@ const zgabanzdev = {
 
 ## `<TechStack />`
 
+<p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -89,6 +90,7 @@ const zgabanzdev = {
 <img alt="ethers.js" src="https://img.shields.io/badge/ethers.js-7C3AED?style=flat-square&logoColor=white" />
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+</p>
 
 ---
 
