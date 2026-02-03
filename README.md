@@ -25,37 +25,6 @@
 
 ---
 
-## `<AboutMe />`
-
-```typescript
-const zgabanzdev = {
-    role: "Frontend Developer",
-    experience: "3+ years of commercial development",
-    focus: ["High-load web apps", "AI platforms", "Browser extensions"],
-    
-    achievements: {
-        performance: "⚡ Reduced page load time by 40%",
-        architecture: "🏗️ Built frontend architecture from scratch for 5+ projects",
-        leadership: "👥 Led frontend team in international distributed team",
-        code_coverage: "📦 Implemented ~80% of frontend functionality across projects"
-    },
-    
-    passions: [
-        "Building scalable solutions",
-        "Optimizing UX & performance",
-        "Implementing best practices",
-        "Working with cutting-edge tech"
-    ],
-    
-    currentlyLearning: ["Advanced Next.js patterns", "Performance optimization"],
-    funFact: "I keep a knowledge base in Obsidian for architectural patterns 📝"
-};
-```
-
-**Specialization:** Developing high-load web applications, AI platforms, and browser extensions with focus on UX, performance, and scalability.
-
----
-
 ## `<TechStack />`
 
 <p>
