@@ -74,7 +74,7 @@
 <img align="right" src="https://media.giphy.com/media/kOydv9PCzQ6gwhh3uA/giphy.gif" width="200">
 
 ###  **AI Image Generation Platform**
-`Frontend Developer | Sep 2025 - Present | Russia`
+`Frontend Developer | Sep 2025 - Feb 2026 | Russia`
 
 **Web platform for AI-powered image generation with interactive preview and AI chat personas**
 
