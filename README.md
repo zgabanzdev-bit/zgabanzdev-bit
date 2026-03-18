@@ -74,13 +74,13 @@
 <img align="right" src="https://media.giphy.com/media/kOydv9PCzQ6gwhh3uA/giphy.gif" width="200">
 
 ###  **AI Image Generation Platform**
-`Frontend Developer | Sep 2025 - Feb 2026 | Russia`
+`Frontend Developer | Russia`
 
 **Web platform for AI-powered image generation with interactive preview and AI chat personas**
 
 ```yaml
 Impact:
-  - Performance: Reduced page load time by 40%
+  - Performance: Reduced page load time by 10%
   - UX: Implemented interactive preview reducing failed re-generations
   - Engagement: Built Telegram-style AI chat increasing user retention
   - Monetization: Integrated Stripe payments & referral system
@@ -97,7 +97,7 @@ Stack: [Next.js, React 19, TypeScript, TailwindCSS, Radix UI, Redux Toolkit]
 ```
 
 ### **LLM & Web3 Gaming Platform**
-`Frontend Developer | May 2025 - Jul 2025 | USA`
+`Frontend Developer | USA`
 
 **Web applications & interactive games with LLM and Web3 integration**
 
@@ -120,7 +120,7 @@ Stack: [Next.js App Router, TypeScript, WebSocket, ethers.js, Three.js, PlayCanv
 ```
 
 ### **Browser Extension & Web App**
-`Lead Frontend Developer | Sep 2024 - Apr 2025 | Sweden`
+`Lead Frontend Developer | Sweden`
 
 **Browser extension for collecting, structuring and sharing web content with AI integration**
 
@@ -128,7 +128,7 @@ Stack: [Next.js App Router, TypeScript, WebSocket, ethers.js, Three.js, PlayCanv
 Impact:
   - Leadership: Led frontend team, established dev standards & Git Flow
   - Architecture: Built from scratch, covered 80% of frontend functionality
-  - Refactoring: Migrated 40% of legacy code to modern React stack
+  - Refactoring: Migrated 30% of legacy code to modern React stack
   - UI Kit: Developed 60% of reusable component library
 
 Stack: [React, TypeScript, Firebase, Stripe, Chrome Extension API]
@@ -143,13 +143,13 @@ Stack: [React, TypeScript, Firebase, Stripe, Chrome Extension API]
 ```
 
 ### **Visual Content Social Network**
-`Frontend Developer | Apr 2024 - Aug 2024 | Russia`
+`Frontend Developer | Russia`
 
 **Social network focused on visual content with collections, subscriptions, and folders**
 
 ```yaml
 Impact:
-  - SEO: Improved Lighthouse scores by 20-30%
+  - SEO: Improved Lighthouse scores by 15%
   - Components: Built reusable UI component library
   - Responsive: Adaptive grid with dynamic columns
 
@@ -165,15 +165,15 @@ Stack: [React, Redux, Material UI, SCSS, Webpack]
 ```
 
 ### **Enterprise Energy Management System**
-`Frontend Developer | Feb 2023 - Mar 2024 | Russia`
+`Frontend Developer | Russia`
 
 **Internal corporate system for energy company processes**
 
 ```yaml
 Impact:
-  - Foundation: Developed 70% of UI from scratch
+  - Foundation: Developed 60% of UI from scratch
   - Type Safety: Implemented TypeScript reducing regressions
-  - Maintenance: Refactored 40% of existing codebase
+  - Maintenance: Refactored 20% of existing codebase
 
 Stack: [Vue.js, Vuex, TypeScript, REST API]
 ```
