@@ -54,17 +54,13 @@
 <div align="center">
 
 
-
 ### Let's build something amazing together! 
-[![Telegram](https://img.shields.io/badge/Telegram-095544?style=flat-square&logo=telegram&logoColor=black)](https://t.me/FrOggGsS_AsS)
-[![Gmail](https://img.shields.io/badge/Gmail-095544?style=flat-square&logo=gmail&logoColor=black)](mailto:zgabanz.dev@gmail.com)
 
 ---
 
 <p align="center">
 <img src="https://media.giphy.com/media/p34MlXlU4jx7fvWTmT/giphy.gif" width="100" />
 </p>
-
 
 
 <sub>Made with 💚 by zgabanzdev-bit</sub>
