@@ -10,7 +10,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@FrOggGsS__AsS-00D9FF?style=flat-square&logo=telegram&logoColor=F1F7&labelColor=0D1117&color=095544)](https://t.me/FrOggGsS_AsS)
 [![Gmail](https://img.shields.io/badge/Gmail-zgabanz.dev@gmail.com-00FF41?style=flat-square&logo=gmail&logoColor=8F0816&labelColor=0D1117&color=095544)](mailto:zgabanz.dev@gmail.com)
-[![Years](https://img.shields.io/badge/Experience-3+_Years-FF00FF?style=flat-square&labelColor=0D1117&color=095544)](#)
 
 </div>
 
